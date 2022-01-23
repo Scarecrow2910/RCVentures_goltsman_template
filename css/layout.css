@@ -69,9 +69,11 @@
 	}
 	
 	.yellow-text {
-		color: #fec400;
+		color: #ce0b0b;
 	}
-	
+	.blue-text {
+		color: #0b1468;
+	}
 	.white-text {
 		color: #fff;
 	}
@@ -269,11 +271,11 @@
 		}
 		
 		nav #fluid-nav li a:hover, nav #fixed-nav li a:hover {
-			color: #fec400;
+			color: #1e57d1;
 		}
 		
 		nav #fluid-nav li.current a, nav #fixed-nav li.current a {
-			color: #fec400;
+			color: #8a1b1b;
 			font-weight: 700;
 		}
 		
