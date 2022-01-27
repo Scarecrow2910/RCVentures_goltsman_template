@@ -271,11 +271,11 @@
 		}
 		
 		nav #fluid-nav li a:hover, nav #fixed-nav li a:hover {
-			color: #1e57d1;
+			color: #d41010;
 		}
 		
 		nav #fluid-nav li.current a, nav #fixed-nav li.current a {
-			color: #8a1b1b;
+			color: #d41010;
 			font-weight: 700;
 		}
 		
@@ -667,8 +667,8 @@
 	/* Contact Us ------------------------------------------ */
 	
 	#contact {
-		background: #fec400 url(../img/top-waves.png) repeat-x top;
-		color: #fff;
+		background: #8a1b1b;
+		color: rgba(255, 255, 255, 0.781);
 		text-align: center;
 		padding-top: 90px;
 	}
@@ -739,7 +739,7 @@
 	/* Feedback ------------------------------------------ */
 	
 	#feedback {
-		background: #25292c url(../img/bottom-waves.png) repeat-x bottom;
+		background: #25292c;
 		color: #fff;
 		padding-top: 72px;
 		padding-bottom: 78px;
@@ -785,6 +785,6 @@
 		text-align: center;
 		padding-top: 50px;
 		padding-bottom: 50px;
-		background: #f3f4f5;
+		background: #b0b0b6;
 	}
 	
